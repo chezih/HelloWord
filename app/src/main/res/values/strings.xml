@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Hello Word</string>
-    <string name="hello_world">Hello world Sima hoyzer asdasd!</string>
+    <string name="hello_world">Hello world Sima hoyzer asdasASd!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
